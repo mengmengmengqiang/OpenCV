@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4632df-70ac-409b-b862-85060307a79c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Cameo/filters.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Cameo/main.py" afterPath="$PROJECT_DIR$/../../Cameo/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Cameo/managers.py" afterPath="$PROJECT_DIR$/../../Cameo/managers.py" />
     </list>
@@ -32,11 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="high_boost_filter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="high_boost_filter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Filter/high_boost_filter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
               <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filters.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Cameo/filters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -75,6 +88,7 @@
         <option value="$PROJECT_DIR$/../../Cameo/main.py" />
         <option value="$PROJECT_DIR$/../../Cameo/managers.py" />
         <option value="$PROJECT_DIR$/../Filter/high_boost_filter.py" />
+        <option value="$PROJECT_DIR$/../../Cameo/filters.py" />
       </list>
     </option>
   </component>
@@ -89,7 +103,9 @@
     <option name="width" value="1920" />
     <option name="height" value="1084" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -110,6 +126,10 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="VIDEO_IO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cameo" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="VIDEO_IO" type="b2602c69:ProjectViewProjectNode" />
               <item name="Filter" type="462c0819:PsiDirectoryNode" />
@@ -461,6 +481,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Cameo/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
