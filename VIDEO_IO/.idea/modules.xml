@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Cameo/.idea/Cameo.iml" filepath="$PROJECT_DIR$/../../Cameo/.idea/Cameo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IMAGE_IO/.idea/IMAGE_IO.iml" filepath="$PROJECT_DIR$/../IMAGE_IO/.idea/IMAGE_IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/VIDEO_IO.iml" filepath="$PROJECT_DIR$/.idea/VIDEO_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../opencv_camera_test/.idea/opencv_camera_test.iml" filepath="$PROJECT_DIR$/../opencv_camera_test/.idea/opencv_camera_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../optical_flow_tracking/.idea/optical_flow_tracking.iml" filepath="$PROJECT_DIR$/../optical_flow_tracking/.idea/optical_flow_tracking.iml" />
     </modules>
   </component>
 </project>
