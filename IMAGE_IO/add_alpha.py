@@ -18,7 +18,7 @@ for i in range(r.shape[0]):
 
 #print(img)
 #merged1 = cv2.merge([r, g, b])
-merged2 = cv2.merge([r, g, b, a]) # png带alpha通道的图片格式是RGBA
+merged2 = cv2.merge([a, a, a, a]) # png带alpha通道的图片格式是RGBA
 print(merged2)
 
 #cv2.imwrite('github_green.png', merged1)
