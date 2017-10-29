@@ -9,6 +9,9 @@
     <orderEntry type="module" module-name="optical_flow_tracking" />
     <orderEntry type="module" module-name="Cameo" />
     <orderEntry type="module" module-name="Filter" />
+    <orderEntry type="module" module-name="Cameo" />
+    <orderEntry type="module" module-name="Cameo" />
+    <orderEntry type="module" module-name="IMAGE_IO" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="Nosetests" />

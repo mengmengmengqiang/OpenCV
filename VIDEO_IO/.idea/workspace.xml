@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="fd4632df-70ac-409b-b862-85060307a79c" name="Default" comment="" />
+=======
+    <list default="true" id="fd4632df-70ac-409b-b862-85060307a79c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Cameo/main.py" afterPath="$PROJECT_DIR$/../../Cameo/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Cameo/managers.py" afterPath="$PROJECT_DIR$/../../Cameo/managers.py" />
+    </list>
+>>>>>>> parent of 7c15fda... add moudle filters
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +56,13 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="filters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Cameo/filters.py">
+=======
+      <file leaf-file-name="high_boost_filter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Filter/high_boost_filter.py">
+>>>>>>> parent of 7c15fda... add moudle filters
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
               <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
@@ -61,6 +73,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Cameo/utils.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,6 +88,10 @@
       </file>
       <file leaf-file-name="cameo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Cameo/cameo.py">
+=======
+      <file leaf-file-name="managers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Cameo/managers.py">
+>>>>>>> parent of 7c15fda... add moudle filters
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
@@ -103,6 +120,7 @@
         <option value="$PROJECT_DIR$/camera_shooting_save.py" />
         <option value="$PROJECT_DIR$/../../Cameo/managers.py" />
         <option value="$PROJECT_DIR$/../Filter/high_boost_filter.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/../IMAGE_IO/show.py" />
         <option value="$PROJECT_DIR$/../../Cameo/utils.py" />
         <option value="$PROJECT_DIR$/../IMAGE_IO/add_alpha.py" />
@@ -110,6 +128,8 @@
         <option value="$PROJECT_DIR$/../../Cameo/cameo.py" />
         <option value="$PROJECT_DIR$/../../Cameo/main.py" />
         <option value="$PROJECT_DIR$/../../Cameo/Canny_test.py" />
+=======
+>>>>>>> parent of 7c15fda... add moudle filters
       </list>
     </option>
   </component>
@@ -143,9 +163,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -167,11 +185,15 @@
           <expand>
             <path>
               <item name="VIDEO_IO" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< HEAD
               <item name="Cameo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="VIDEO_IO" type="b2602c69:ProjectViewProjectNode" />
               <item name="IMAGE_IO" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Filter" type="462c0819:PsiDirectoryNode" />
+>>>>>>> parent of 7c15fda... add moudle filters
             </path>
           </expand>
           <select />
@@ -579,6 +601,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../../Cameo/screenshot2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -615,5 +638,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> parent of 7c15fda... add moudle filters
   </component>
 </project>
