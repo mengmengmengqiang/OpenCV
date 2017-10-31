@@ -19,9 +19,9 @@ for c in contours:
 
     # find minimum area
     rect = cv2.minAreaRect(c)
-    # calculate coordinates of the minmum area rectangle
+    # calculate coordinates of the minimum area rectangle
     box = cv2.boxPoints(rect)
-    # normalize coordinates to integers
+    # normalize coordinates float number to integers
     box = numpy.int0(box)
     # draw contours
     cv2.drawContours(img, [box], 0, (0, 0, 255), 3)
@@ -36,6 +36,6 @@ for c in contours:
 
 cv2.drawContours(img, contours, -1, (255, 0, 0), 1)
 cv2.imshow("contours", img)
-cv2.imwrite("image_contours.png", img)
+cv2.imwrite("image_contours.jpg", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
