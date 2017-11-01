@@ -1,7 +1,7 @@
 import cv2
 import numpy
 
-pre = cv2.imread('test.jpg')
+pre = cv2.imread('planet.png')
 planets = pre.copy()
 
 gray_img = cv2.cvtColor(planets, cv2.COLOR_BGR2GRAY)
