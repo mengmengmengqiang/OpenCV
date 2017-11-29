@@ -21,7 +21,6 @@ ret, markers = cv2.connectedComponents(sure_fg)
 markers = markers + 1
 markers[unkown == 255] = 0
 
-
 markers = cv2.watershed(img, markers)
 img[markers == -1] = [255, 0, 0]
 plt.imshow(img)
