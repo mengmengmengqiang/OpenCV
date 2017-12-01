@@ -1,6 +1,6 @@
 import cv2
 
-filename = './my_face.png'
+# filename = './my_face.png'
 
 def detect(filename):
     face_cascade = \
@@ -20,10 +20,15 @@ def detect(filename):
         for (ex, ey, ew, eh) in eyes:
             cv2.rectangle(img, (x+ex, y+ey), (x+ex+ew, y+ey+eh), (0, 255, 0), 2)
 
-    cv2.namedWindow('Vikings Detected!!')
-    cv2.imshow('Vikings Detected!!', img)
+    cv2.imshow(filename, img)
     cv2.imwrite('./result.png', img)
+    # cv2.waitKey(0)
+
+
+if __name__ == "__main__":
+    count = 1
+    for count in range(1, 15-1):
+        filename = './test_face/' + 'screenshot' + str(count) + '.png'
+        print(filename)
+        detect(filename)
     cv2.waitKey(0)
-
-
-detect(filename)
